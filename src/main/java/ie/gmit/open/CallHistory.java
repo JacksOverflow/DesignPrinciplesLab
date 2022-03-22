@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 
-public class CallHistory {
+public class CallHistory extends Subscriber{
 
     public static class Call {
         
